@@ -37,4 +37,3 @@ while True:
         print("\nVocê venceu!")
         print("Palavra:", sorteio)
         break
-
